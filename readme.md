@@ -19,7 +19,6 @@
 * Run ` npm run test ` to test the app and get code coverage result.
 * Run ` npm run e2e ` to run e2e tests.
 
-
 # Verification-
 
 * ` npm start ` should run the app on localhost:9000 .
