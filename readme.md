@@ -13,7 +13,6 @@
 
 * To install the dependencies, run ` npm install `.
 
-
 # Running and Testing-
 
 * Run ` npm start ` to start the angular app on localhost:9000 .
