@@ -31,5 +31,3 @@
 * The trace logs is generated in timeline.json file in ReDoc directory.
 * to view trace logs, Open devtools in chrome, go to Performance tab, click on Load Profile icon and select the timeline.json file generated.
 * The code for it is in chrome-profiler directory.
-
-
