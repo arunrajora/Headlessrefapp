@@ -23,7 +23,6 @@
 
 * ` npm start ` should run the app on localhost:9000 .
 
-
 # Running the app on headless chrome-
 
 * Run ` npm run profile ` to run the app on headless chrome and capture network and tracing logs.
